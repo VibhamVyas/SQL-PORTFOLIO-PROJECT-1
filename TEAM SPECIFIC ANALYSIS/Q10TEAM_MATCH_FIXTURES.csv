@@ -1,0 +1,625 @@
+IPL_EDITION,DATE,TEAM1,TEAM2,WINNER,RESULT,RESULT_MARGIN
+2008,2008-04-18,"Royal Challengers Bangalore","Kolkata Knight Riders","Kolkata Knight Riders",runs,140
+2008,2008-04-19,"Delhi Daredevils","Rajasthan Royals","Delhi Daredevils",wickets,9
+2008,2008-04-20,"Mumbai Indians","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,5
+2008,2008-04-20,"Kolkata Knight Riders","Deccan Chargers","Kolkata Knight Riders",wickets,5
+2008,2008-04-21,"Rajasthan Royals","Kings XI Punjab","Rajasthan Royals",wickets,6
+2008,2008-04-26,"Royal Challengers Bangalore","Rajasthan Royals","Rajasthan Royals",wickets,7
+2008,2008-04-27,"Mumbai Indians","Deccan Chargers","Deccan Chargers",wickets,10
+2008,2008-04-28,"Royal Challengers Bangalore","Chennai Super Kings","Chennai Super Kings",runs,13
+2008,2008-04-29,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",wickets,7
+2008,2008-04-30,"Delhi Daredevils","Royal Challengers Bangalore","Delhi Daredevils",runs,10
+2008,2008-05-01,"Rajasthan Royals","Kolkata Knight Riders","Rajasthan Royals",runs,45
+2008,2008-05-04,"Mumbai Indians","Delhi Daredevils","Mumbai Indians",runs,29
+2008,2008-05-04,"Rajasthan Royals","Chennai Super Kings","Rajasthan Royals",wickets,8
+2008,2008-05-05,"Royal Challengers Bangalore","Kings XI Punjab","Kings XI Punjab",wickets,6
+2008,2008-05-07,"Mumbai Indians","Rajasthan Royals","Mumbai Indians",wickets,7
+2008,2008-05-08,"Delhi Daredevils","Chennai Super Kings","Chennai Super Kings",wickets,4
+2008,2008-05-08,"Kolkata Knight Riders","Royal Challengers Bangalore","Kolkata Knight Riders",runs,5
+2008,2008-05-09,"Rajasthan Royals","Deccan Chargers","Rajasthan Royals",wickets,8
+2008,2008-05-28,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",wickets,9
+2008,2008-05-11,"Rajasthan Royals","Delhi Daredevils","Rajasthan Royals",wickets,3
+2008,2008-05-13,"Kolkata Knight Riders","Delhi Daredevils","Kolkata Knight Riders",runs,23
+2008,2008-05-14,"Mumbai Indians","Chennai Super Kings","Mumbai Indians",wickets,9
+2008,2008-05-15,"Delhi Daredevils","Deccan Chargers","Delhi Daredevils",runs,12
+2008,2008-05-16,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",wickets,8
+2008,2008-05-17,"Delhi Daredevils","Kings XI Punjab","Kings XI Punjab",runs,6
+2008,2008-05-17,"Rajasthan Royals","Royal Challengers Bangalore","Rajasthan Royals",runs,65
+2008,2008-05-18,"Kolkata Knight Riders","Chennai Super Kings","Chennai Super Kings",runs,3
+2008,2008-05-19,"Royal Challengers Bangalore","Delhi Daredevils","Delhi Daredevils",wickets,5
+2008,2008-05-20,"Kolkata Knight Riders","Rajasthan Royals","Rajasthan Royals",wickets,6
+2008,2008-05-21,"Mumbai Indians","Kings XI Punjab","Kings XI Punjab",runs,1
+2008,2008-05-24,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",wickets,5
+2008,2008-05-03,"Royal Challengers Bangalore","Deccan Chargers","Royal Challengers Bangalore",runs,3
+2008,2008-05-25,"Kolkata Knight Riders","Kings XI Punjab","Kolkata Knight Riders",wickets,3
+2008,2008-05-26,"Rajasthan Royals","Mumbai Indians","Rajasthan Royals",wickets,5
+2008,2008-05-30,"Delhi Daredevils","Rajasthan Royals","Rajasthan Royals",runs,105
+2008,2008-05-31,"Chennai Super Kings","Kings XI Punjab","Chennai Super Kings",wickets,9
+2008,2008-06-01,"Chennai Super Kings","Rajasthan Royals","Rajasthan Royals",wickets,3
+2009,2009-04-18,"Chennai Super Kings","Mumbai Indians","Mumbai Indians",runs,19
+2009,2009-04-18,"Royal Challengers Bangalore","Rajasthan Royals","Royal Challengers Bangalore",runs,75
+2009,2009-04-19,"Delhi Daredevils","Kings XI Punjab","Delhi Daredevils",wickets,10
+2009,2009-04-19,"Deccan Chargers","Kolkata Knight Riders","Deccan Chargers",wickets,8
+2009,2009-04-20,"Royal Challengers Bangalore","Chennai Super Kings","Chennai Super Kings",runs,92
+2009,2009-04-21,"Kings XI Punjab","Kolkata Knight Riders","Kolkata Knight Riders",runs,11
+2009,2009-04-22,"Royal Challengers Bangalore","Deccan Chargers","Deccan Chargers",runs,24
+2009,2009-04-23,"Chennai Super Kings","Delhi Daredevils","Delhi Daredevils",runs,9
+2009,2009-04-23,"Kolkata Knight Riders","Rajasthan Royals","Rajasthan Royals",tie,0
+2009,2009-04-24,"Royal Challengers Bangalore","Kings XI Punjab","Kings XI Punjab",wickets,7
+2009,2009-04-25,"Deccan Chargers","Mumbai Indians","Deccan Chargers",runs,12
+2009,2009-04-26,"Royal Challengers Bangalore","Delhi Daredevils","Delhi Daredevils",wickets,6
+2009,2009-04-26,"Kings XI Punjab","Rajasthan Royals","Kings XI Punjab",runs,27
+2009,2009-04-27,"Chennai Super Kings","Deccan Chargers","Deccan Chargers",wickets,6
+2009,2009-04-27,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",runs,92
+2009,2009-04-28,"Delhi Daredevils","Rajasthan Royals","Rajasthan Royals",wickets,5
+2009,2009-04-29,"Royal Challengers Bangalore","Kolkata Knight Riders","Royal Challengers Bangalore",wickets,5
+2009,2009-04-29,"Kings XI Punjab","Mumbai Indians","Kings XI Punjab",runs,3
+2009,2009-04-30,"Deccan Chargers","Delhi Daredevils","Delhi Daredevils",wickets,6
+2009,2009-04-30,"Chennai Super Kings","Rajasthan Royals","Chennai Super Kings",runs,38
+2009,2009-05-01,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",runs,9
+2009,2009-05-01,"Royal Challengers Bangalore","Kings XI Punjab","Royal Challengers Bangalore",runs,8
+2009,2009-05-02,"Deccan Chargers","Rajasthan Royals","Rajasthan Royals",wickets,3
+2009,2009-05-02,"Chennai Super Kings","Delhi Daredevils","Chennai Super Kings",runs,18
+2009,2009-05-03,"Kings XI Punjab","Kolkata Knight Riders","Kings XI Punjab",wickets,6
+2009,2009-05-03,"Royal Challengers Bangalore","Mumbai Indians","Royal Challengers Bangalore",wickets,9
+2009,2009-05-04,"Chennai Super Kings","Deccan Chargers","Chennai Super Kings",runs,78
+2009,2009-05-05,"Kings XI Punjab","Rajasthan Royals","Rajasthan Royals",runs,78
+2009,2009-05-05,"Delhi Daredevils","Kolkata Knight Riders","Delhi Daredevils",wickets,9
+2009,2009-05-06,"Deccan Chargers","Mumbai Indians","Deccan Chargers",runs,19
+2009,2009-05-07,"Royal Challengers Bangalore","Rajasthan Royals","Rajasthan Royals",wickets,7
+2009,2009-05-07,"Chennai Super Kings","Kings XI Punjab","Chennai Super Kings",runs,12
+2009,2009-05-08,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",wickets,7
+2009,2009-05-09,"Deccan Chargers","Kings XI Punjab","Kings XI Punjab",wickets,3
+2009,2009-05-09,"Chennai Super Kings","Rajasthan Royals","Chennai Super Kings",wickets,7
+2009,2009-05-10,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",runs,16
+2009,2009-05-10,"Delhi Daredevils","Kolkata Knight Riders","Delhi Daredevils",wickets,7
+2009,2009-05-11,"Deccan Chargers","Rajasthan Royals","Deccan Chargers",runs,53
+2009,2009-05-12,"Royal Challengers Bangalore","Kolkata Knight Riders","Royal Challengers Bangalore",wickets,6
+2009,2009-05-12,"Kings XI Punjab","Mumbai Indians","Mumbai Indians",wickets,8
+2009,2009-05-13,"Deccan Chargers","Delhi Daredevils","Delhi Daredevils",runs,12
+2009,2009-05-14,"Royal Challengers Bangalore","Chennai Super Kings","Royal Challengers Bangalore",wickets,2
+2009,2009-05-14,"Mumbai Indians","Rajasthan Royals","Rajasthan Royals",runs,2
+2009,2009-05-15,"Delhi Daredevils","Kings XI Punjab","Kings XI Punjab",wickets,6
+2009,2009-05-16,"Chennai Super Kings","Mumbai Indians","Chennai Super Kings",wickets,7
+2009,2009-05-16,"Deccan Chargers","Kolkata Knight Riders","Deccan Chargers",wickets,6
+2009,2009-05-17,"Deccan Chargers","Kings XI Punjab","Kings XI Punjab",runs,1
+2009,2009-05-17,"Delhi Daredevils","Rajasthan Royals","Delhi Daredevils",runs,14
+2009,2009-05-18,"Chennai Super Kings","Kolkata Knight Riders","Kolkata Knight Riders",wickets,7
+2009,2009-05-19,"Royal Challengers Bangalore","Delhi Daredevils","Royal Challengers Bangalore",wickets,7
+2009,2009-05-20,"Kolkata Knight Riders","Rajasthan Royals","Kolkata Knight Riders",wickets,4
+2009,2009-05-20,"Chennai Super Kings","Kings XI Punjab","Chennai Super Kings",runs,24
+2009,2009-05-21,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",wickets,4
+2009,2009-05-21,"Royal Challengers Bangalore","Deccan Chargers","Royal Challengers Bangalore",runs,12
+2009,2009-05-22,"Delhi Daredevils","Deccan Chargers","Deccan Chargers",wickets,6
+2009,2009-05-23,"Royal Challengers Bangalore","Chennai Super Kings","Royal Challengers Bangalore",wickets,6
+2009,2009-05-24,"Royal Challengers Bangalore","Deccan Chargers","Deccan Chargers",runs,6
+2010,2010-03-12,"Deccan Chargers","Kolkata Knight Riders","Kolkata Knight Riders",runs,11
+2010,2010-03-13,"Mumbai Indians","Rajasthan Royals","Mumbai Indians",runs,4
+2010,2010-03-14,"Kolkata Knight Riders","Royal Challengers Bangalore","Kolkata Knight Riders",wickets,7
+2010,2010-03-16,"Royal Challengers Bangalore","Kings XI Punjab","Royal Challengers Bangalore",wickets,8
+2010,2010-03-16,"Kolkata Knight Riders","Chennai Super Kings","Chennai Super Kings",runs,55
+2010,2010-03-17,"Delhi Daredevils","Mumbai Indians","Mumbai Indians",runs,98
+2010,2010-03-18,"Royal Challengers Bangalore","Rajasthan Royals","Royal Challengers Bangalore",wickets,10
+2010,2010-03-19,"Delhi Daredevils","Chennai Super Kings","Chennai Super Kings",wickets,5
+2010,2010-03-19,"Deccan Chargers","Kings XI Punjab","Deccan Chargers",runs,6
+2010,2010-03-20,"Mumbai Indians","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,7
+2010,2010-03-21,"Deccan Chargers","Delhi Daredevils","Deccan Chargers",runs,10
+2010,2010-03-22,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",wickets,7
+2010,2010-03-23,"Royal Challengers Bangalore","Chennai Super Kings","Royal Challengers Bangalore",runs,36
+2010,2010-03-25,"Mumbai Indians","Chennai Super Kings","Mumbai Indians",wickets,5
+2010,2010-03-25,"Royal Challengers Bangalore","Delhi Daredevils","Delhi Daredevils",runs,17
+2010,2010-03-28,"Deccan Chargers","Mumbai Indians","Mumbai Indians",runs,41
+2010,2010-03-29,"Delhi Daredevils","Kolkata Knight Riders","Delhi Daredevils",runs,40
+2010,2010-03-30,"Mumbai Indians","Kings XI Punjab","Mumbai Indians",wickets,4
+2010,2010-03-31,"Delhi Daredevils","Rajasthan Royals","Delhi Daredevils",runs,67
+2010,2010-04-01,"Kolkata Knight Riders","Deccan Chargers","Kolkata Knight Riders",runs,24
+2010,2010-04-03,"Mumbai Indians","Deccan Chargers","Mumbai Indians",runs,63
+2010,2010-04-04,"Kolkata Knight Riders","Kings XI Punjab","Kings XI Punjab",wickets,8
+2010,2010-04-04,"Delhi Daredevils","Royal Challengers Bangalore","Delhi Daredevils",runs,37
+2010,2010-04-07,"Rajasthan Royals","Kings XI Punjab","Rajasthan Royals",wickets,9
+2010,2010-04-07,"Kolkata Knight Riders","Delhi Daredevils","Kolkata Knight Riders",runs,14
+2010,2010-04-08,"Royal Challengers Bangalore","Deccan Chargers","Deccan Chargers",wickets,7
+2010,2010-04-10,"Royal Challengers Bangalore","Kolkata Knight Riders","Royal Challengers Bangalore",wickets,7
+2010,2010-04-11,"Delhi Daredevils","Kings XI Punjab","Kings XI Punjab",wickets,7
+2010,2010-04-11,"Rajasthan Royals","Mumbai Indians","Mumbai Indians",runs,37
+2010,2010-04-13,"Mumbai Indians","Delhi Daredevils","Mumbai Indians",runs,39
+2010,2010-04-14,"Rajasthan Royals","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,5
+2010,2010-04-16,"Kings XI Punjab","Deccan Chargers","Deccan Chargers",wickets,5
+2010,2010-04-17,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",runs,57
+2010,2010-04-17,"Kolkata Knight Riders","Rajasthan Royals","Kolkata Knight Riders",wickets,8
+2010,2010-04-18,"Kings XI Punjab","Chennai Super Kings","Chennai Super Kings",wickets,6
+2010,2010-04-18,"Delhi Daredevils","Deccan Chargers","Deccan Chargers",runs,11
+2010,2010-04-19,"Kolkata Knight Riders","Mumbai Indians","Kolkata Knight Riders",wickets,9
+2010,2010-04-21,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",runs,35
+2010,2010-04-22,"Chennai Super Kings","Deccan Chargers","Chennai Super Kings",runs,38
+2010,2010-04-24,"Royal Challengers Bangalore","Deccan Chargers","Royal Challengers Bangalore",wickets,9
+2010,2010-04-25,"Chennai Super Kings","Mumbai Indians","Chennai Super Kings",runs,22
+2011,2011-04-09,"Kochi Tuskers Kerala","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,6
+2011,2011-04-10,"Delhi Daredevils","Mumbai Indians","Mumbai Indians",wickets,8
+2011,2011-04-10,"Pune Warriors","Kings XI Punjab","Pune Warriors",wickets,7
+2011,2011-04-11,"Kolkata Knight Riders","Deccan Chargers","Kolkata Knight Riders",runs,9
+2011,2011-04-12,"Rajasthan Royals","Delhi Daredevils","Rajasthan Royals",wickets,6
+2011,2011-04-12,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",wickets,9
+2011,2011-04-13,"Pune Warriors","Kochi Tuskers Kerala","Pune Warriors",wickets,4
+2011,2011-04-15,"Rajasthan Royals","Kolkata Knight Riders","Kolkata Knight Riders",wickets,9
+2011,2011-04-15,"Mumbai Indians","Kochi Tuskers Kerala","Kochi Tuskers Kerala",wickets,8
+2011,2011-04-17,"Pune Warriors","Delhi Daredevils","Delhi Daredevils",wickets,3
+2011,2011-04-17,"Kolkata Knight Riders","Rajasthan Royals","Kolkata Knight Riders",wickets,8
+2011,2011-04-18,"Kochi Tuskers Kerala","Chennai Super Kings","Kochi Tuskers Kerala",wickets,7
+2011,2011-04-19,"Delhi Daredevils","Deccan Chargers","Deccan Chargers",runs,16
+2011,2011-04-20,"Mumbai Indians","Pune Warriors","Mumbai Indians",wickets,7
+2011,2011-04-20,"Kolkata Knight Riders","Kochi Tuskers Kerala","Kochi Tuskers Kerala",runs,6
+2011,2011-04-22,"Mumbai Indians","Chennai Super Kings","Mumbai Indians",runs,8
+2011,2011-04-22,"Kolkata Knight Riders","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,9
+2011,2011-04-23,"Delhi Daredevils","Kings XI Punjab","Delhi Daredevils",runs,29
+2011,2011-04-24,"Rajasthan Royals","Kochi Tuskers Kerala","Rajasthan Royals",wickets,8
+2011,2011-04-26,"Delhi Daredevils","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,3
+2011,2011-04-27,"Pune Warriors","Chennai Super Kings","Chennai Super Kings",wickets,8
+2011,2011-04-27,"Kochi Tuskers Kerala","Deccan Chargers","Deccan Chargers",runs,55
+2011,2011-04-28,"Delhi Daredevils","Kolkata Knight Riders","Kolkata Knight Riders",runs,17
+2011,2011-04-29,"Rajasthan Royals","Mumbai Indians","Rajasthan Royals",wickets,7
+2011,2011-04-29,"Royal Challengers Bangalore","Pune Warriors","Royal Challengers Bangalore",runs,26
+2011,2011-04-30,"Kochi Tuskers Kerala","Delhi Daredevils","Delhi Daredevils",runs,38
+2011,2011-04-30,"Kolkata Knight Riders","Kings XI Punjab","Kolkata Knight Riders",wickets,8
+2011,2011-05-01,"Rajasthan Royals","Pune Warriors","Rajasthan Royals",wickets,6
+2011,2011-05-02,"Mumbai Indians","Kings XI Punjab","Mumbai Indians",runs,23
+2011,2011-05-02,"Delhi Daredevils","Kochi Tuskers Kerala","Kochi Tuskers Kerala",wickets,7
+2011,2011-05-04,"Pune Warriors","Mumbai Indians","Mumbai Indians",runs,21
+2011,2011-05-05,"Kochi Tuskers Kerala","Kolkata Knight Riders","Kochi Tuskers Kerala",runs,17
+2011,2011-05-06,"Royal Challengers Bangalore","Kings XI Punjab","Royal Challengers Bangalore",runs,85
+2011,2011-05-07,"Kolkata Knight Riders","Chennai Super Kings","Kolkata Knight Riders",runs,10
+2011,2011-05-07,"Mumbai Indians","Delhi Daredevils","Mumbai Indians",runs,32
+2011,2011-05-08,"Royal Challengers Bangalore","Kochi Tuskers Kerala","Royal Challengers Bangalore",wickets,9
+2011,2011-05-09,"Rajasthan Royals","Chennai Super Kings","Chennai Super Kings",runs,63
+2011,2011-05-11,"Rajasthan Royals","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,9
+2011,2011-05-13,"Kochi Tuskers Kerala","Kings XI Punjab","Kings XI Punjab",wickets,6
+2011,2011-05-14,"Royal Challengers Bangalore","Kolkata Knight Riders","Royal Challengers Bangalore",wickets,4
+2011,2011-05-14,"Mumbai Indians","Deccan Chargers","Deccan Chargers",runs,10
+2011,2011-05-15,"Kings XI Punjab","Delhi Daredevils","Kings XI Punjab",runs,29
+2011,2011-05-15,"Kochi Tuskers Kerala","Rajasthan Royals","Kochi Tuskers Kerala",wickets,8
+2011,2011-05-16,"Pune Warriors","Deccan Chargers","Deccan Chargers",wickets,6
+2011,2011-05-17,"Kings XI Punjab","Royal Challengers Bangalore","Kings XI Punjab",runs,111
+2011,2011-05-19,"Pune Warriors","Kolkata Knight Riders","Kolkata Knight Riders",wickets,7
+2011,2011-05-20,"Mumbai Indians","Rajasthan Royals","Rajasthan Royals",wickets,10
+2011,2011-05-21,"Kings XI Punjab","Deccan Chargers","Deccan Chargers",runs,82
+2011,2011-05-21,"Delhi Daredevils","Pune Warriors","No Result","No Result",0
+2011,2011-05-22,"Royal Challengers Bangalore","Chennai Super Kings","Royal Challengers Bangalore",wickets,8
+2011,2011-05-22,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",wickets,5
+2011,2011-05-24,"Royal Challengers Bangalore","Chennai Super Kings","Chennai Super Kings",wickets,6
+2011,2011-05-25,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",wickets,4
+2012,2012-04-05,"Kolkata Knight Riders","Delhi Daredevils","Delhi Daredevils",wickets,8
+2012,2012-04-06,"Mumbai Indians","Pune Warriors","Pune Warriors",runs,28
+2012,2012-04-06,"Rajasthan Royals","Kings XI Punjab","Rajasthan Royals",runs,31
+2012,2012-04-07,"Royal Challengers Bangalore","Delhi Daredevils","Royal Challengers Bangalore",runs,20
+2012,2012-04-07,"Deccan Chargers","Chennai Super Kings","Chennai Super Kings",runs,74
+2012,2012-04-08,"Rajasthan Royals","Kolkata Knight Riders","Rajasthan Royals",runs,22
+2012,2012-04-08,"Pune Warriors","Kings XI Punjab","Pune Warriors",runs,22
+2012,2012-04-09,"Deccan Chargers","Mumbai Indians","Mumbai Indians",wickets,5
+2012,2012-04-10,"Royal Challengers Bangalore","Kolkata Knight Riders","Kolkata Knight Riders",runs,42
+2012,2012-04-10,"Delhi Daredevils","Chennai Super Kings","Delhi Daredevils",wickets,8
+2012,2012-04-11,"Mumbai Indians","Rajasthan Royals","Mumbai Indians",runs,27
+2012,2012-04-13,"Kolkata Knight Riders","Rajasthan Royals","Kolkata Knight Riders",wickets,5
+2012,2012-04-19,"Delhi Daredevils","Deccan Chargers","Delhi Daredevils",wickets,5
+2012,2012-04-14,"Pune Warriors","Chennai Super Kings","Pune Warriors",wickets,7
+2012,2012-04-15,"Kolkata Knight Riders","Kings XI Punjab","Kings XI Punjab",runs,2
+2012,2012-04-15,"Royal Challengers Bangalore","Rajasthan Royals","Rajasthan Royals",runs,59
+2012,2012-04-16,"Mumbai Indians","Delhi Daredevils","Delhi Daredevils",wickets,7
+2012,2012-04-17,"Rajasthan Royals","Deccan Chargers","Rajasthan Royals",wickets,5
+2012,2012-04-17,"Royal Challengers Bangalore","Pune Warriors","Royal Challengers Bangalore",wickets,6
+2012,2012-04-21,"Delhi Daredevils","Pune Warriors","Pune Warriors",runs,20
+2012,2012-04-22,"Mumbai Indians","Kings XI Punjab","Kings XI Punjab",wickets,6
+2012,2012-04-22,"Deccan Chargers","Kolkata Knight Riders","Kolkata Knight Riders",wickets,5
+2012,2012-04-23,"Rajasthan Royals","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,46
+2012,2012-04-24,"Pune Warriors","Delhi Daredevils","Delhi Daredevils",wickets,8
+2012,2012-04-26,"Pune Warriors","Deccan Chargers","Deccan Chargers",runs,18
+2012,2012-04-27,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",runs,37
+2012,2012-04-28,"Kolkata Knight Riders","Royal Challengers Bangalore","Kolkata Knight Riders",runs,47
+2012,2012-04-29,"Delhi Daredevils","Rajasthan Royals","Delhi Daredevils",runs,1
+2012,2012-04-29,"Mumbai Indians","Deccan Chargers","Mumbai Indians",wickets,5
+2012,2012-05-01,"Deccan Chargers","Pune Warriors","Deccan Chargers",runs,13
+2012,2012-05-01,"Rajasthan Royals","Delhi Daredevils","Delhi Daredevils",wickets,6
+2012,2012-05-02,"Royal Challengers Bangalore","Kings XI Punjab","Kings XI Punjab",wickets,4
+2012,2012-05-03,"Pune Warriors","Mumbai Indians","Mumbai Indians",runs,1
+2012,2012-05-05,"Kolkata Knight Riders","Pune Warriors","Kolkata Knight Riders",runs,7
+2012,2012-05-06,"Mumbai Indians","Chennai Super Kings","Mumbai Indians",wickets,2
+2012,2012-05-06,"Royal Challengers Bangalore","Deccan Chargers","Royal Challengers Bangalore",wickets,5
+2012,2012-05-07,"Delhi Daredevils","Kolkata Knight Riders","Kolkata Knight Riders",wickets,6
+2012,2012-05-08,"Pune Warriors","Rajasthan Royals","Rajasthan Royals",wickets,7
+2012,2012-05-09,"Mumbai Indians","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,9
+2012,2012-05-10,"Rajasthan Royals","Chennai Super Kings","Chennai Super Kings",wickets,4
+2012,2012-05-11,"Pune Warriors","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,35
+2012,2012-05-12,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",runs,27
+2012,2012-05-13,"Rajasthan Royals","Pune Warriors","Rajasthan Royals",runs,45
+2012,2012-05-14,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",wickets,5
+2012,2012-05-14,"Kolkata Knight Riders","Chennai Super Kings","Chennai Super Kings",wickets,5
+2012,2012-05-15,"Delhi Daredevils","Kings XI Punjab","Delhi Daredevils",wickets,5
+2012,2012-05-16,"Mumbai Indians","Kolkata Knight Riders","Kolkata Knight Riders",runs,32
+2012,2012-05-17,"Kings XI Punjab","Chennai Super Kings","Kings XI Punjab",wickets,6
+2012,2012-05-17,"Delhi Daredevils","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,21
+2012,2012-05-19,"Kings XI Punjab","Delhi Daredevils","Delhi Daredevils",wickets,6
+2012,2012-05-19,"Pune Warriors","Kolkata Knight Riders","Kolkata Knight Riders",runs,34
+2012,2012-05-20,"Rajasthan Royals","Mumbai Indians","Mumbai Indians",wickets,10
+2012,2012-05-22,"Delhi Daredevils","Kolkata Knight Riders","Kolkata Knight Riders",runs,18
+2012,2012-05-23,"Chennai Super Kings","Mumbai Indians","Chennai Super Kings",runs,38
+2013,2013-04-03,"Kolkata Knight Riders","Delhi Daredevils","Kolkata Knight Riders",wickets,6
+2013,2013-04-04,"Royal Challengers Bangalore","Mumbai Indians","Royal Challengers Bangalore",runs,2
+2013,2013-04-06,"Delhi Daredevils","Rajasthan Royals","Rajasthan Royals",runs,5
+2013,2013-04-07,"Pune Warriors","Kings XI Punjab","Kings XI Punjab",wickets,8
+2013,2013-04-08,"Rajasthan Royals","Kolkata Knight Riders","Rajasthan Royals",runs,19
+2013,2013-04-09,"Mumbai Indians","Delhi Daredevils","Mumbai Indians",runs,44
+2013,2013-04-11,"Royal Challengers Bangalore","Kolkata Knight Riders","Royal Challengers Bangalore",wickets,8
+2013,2013-04-11,"Pune Warriors","Rajasthan Royals","Pune Warriors",wickets,7
+2013,2013-04-12,"Delhi Daredevils","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,3
+2013,2013-04-13,"Mumbai Indians","Pune Warriors","Mumbai Indians",runs,41
+2013,2013-04-14,"Kolkata Knight Riders","Sunrisers Hyderabad","Kolkata Knight Riders",runs,48
+2013,2013-04-14,"Rajasthan Royals","Kings XI Punjab","Rajasthan Royals",wickets,6
+2013,2013-04-16,"Royal Challengers Bangalore","Delhi Daredevils","Royal Challengers Bangalore",tie,0
+2013,2013-04-17,"Pune Warriors","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,11
+2013,2013-04-17,"Rajasthan Royals","Mumbai Indians","Rajasthan Royals",runs,87
+2013,2013-04-18,"Delhi Daredevils","Chennai Super Kings","Chennai Super Kings",runs,86
+2013,2013-04-20,"Kolkata Knight Riders","Chennai Super Kings","Chennai Super Kings",wickets,4
+2013,2013-04-20,"Royal Challengers Bangalore","Rajasthan Royals","Royal Challengers Bangalore",wickets,7
+2013,2013-04-21,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",wickets,9
+2013,2013-04-23,"Royal Challengers Bangalore","Pune Warriors","Royal Challengers Bangalore",runs,130
+2013,2013-05-16,"Kings XI Punjab","Delhi Daredevils","Kings XI Punjab",runs,7
+2013,2013-04-24,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",wickets,5
+2013,2013-04-26,"Kolkata Knight Riders","Kings XI Punjab","Kolkata Knight Riders",wickets,6
+2013,2013-04-27,"Rajasthan Royals","Sunrisers Hyderabad","Rajasthan Royals",wickets,8
+2013,2013-04-27,"Mumbai Indians","Royal Challengers Bangalore","Mumbai Indians",runs,58
+2013,2013-04-28,"Delhi Daredevils","Pune Warriors","Delhi Daredevils",runs,15
+2013,2013-04-29,"Rajasthan Royals","Royal Challengers Bangalore","Rajasthan Royals",wickets,4
+2013,2013-04-29,"Mumbai Indians","Kings XI Punjab","Mumbai Indians",runs,4
+2013,2013-04-30,"Pune Warriors","Chennai Super Kings","Chennai Super Kings",runs,37
+2013,2013-05-01,"Delhi Daredevils","Kolkata Knight Riders","Delhi Daredevils",wickets,7
+2013,2013-05-02,"Pune Warriors","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,17
+2013,2013-05-03,"Kolkata Knight Riders","Rajasthan Royals","Kolkata Knight Riders",wickets,8
+2013,2013-05-14,"Royal Challengers Bangalore","Kings XI Punjab","Kings XI Punjab",wickets,7
+2013,2013-05-05,"Mumbai Indians","Chennai Super Kings","Mumbai Indians",runs,60
+2013,2013-05-05,"Rajasthan Royals","Pune Warriors","Rajasthan Royals",wickets,5
+2013,2013-04-09,"Royal Challengers Bangalore","Sunrisers Hyderabad","Royal Challengers Bangalore",wickets,7
+2013,2013-05-07,"Rajasthan Royals","Delhi Daredevils","Rajasthan Royals",wickets,9
+2013,2013-05-07,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",runs,65
+2013,2013-05-09,"Pune Warriors","Kolkata Knight Riders","Kolkata Knight Riders",runs,46
+2013,2013-05-10,"Delhi Daredevils","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,4
+2013,2013-05-11,"Pune Warriors","Mumbai Indians","Mumbai Indians",wickets,5
+2013,2013-05-12,"Kolkata Knight Riders","Royal Challengers Bangalore","Kolkata Knight Riders",wickets,5
+2013,2013-05-12,"Rajasthan Royals","Chennai Super Kings","Rajasthan Royals",wickets,5
+2013,2013-04-23,"Delhi Daredevils","Kings XI Punjab","Kings XI Punjab",wickets,5
+2013,2013-05-13,"Mumbai Indians","Sunrisers Hyderabad","Mumbai Indians",wickets,7
+2013,2013-05-15,"Kolkata Knight Riders","Pune Warriors","Pune Warriors",runs,7
+2013,2013-05-15,"Mumbai Indians","Rajasthan Royals","Mumbai Indians",runs,14
+2013,2013-05-18,"Kings XI Punjab","Mumbai Indians","Kings XI Punjab",runs,50
+2013,2013-05-19,"Pune Warriors","Delhi Daredevils","Pune Warriors",runs,38
+2013,2013-05-18,"Royal Challengers Bangalore","Chennai Super Kings","Royal Challengers Bangalore",runs,24
+2013,2013-05-21,"Chennai Super Kings","Mumbai Indians","Chennai Super Kings",runs,48
+2013,2013-05-22,"Rajasthan Royals","Sunrisers Hyderabad","Rajasthan Royals",wickets,4
+2013,2013-05-24,"Mumbai Indians","Rajasthan Royals","Mumbai Indians",wickets,4
+2013,2013-05-26,"Chennai Super Kings","Mumbai Indians","Mumbai Indians",runs,23
+2014,2014-04-16,"Mumbai Indians","Kolkata Knight Riders","Kolkata Knight Riders",runs,41
+2014,2014-04-17,"Delhi Daredevils","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,8
+2014,2014-04-18,"Chennai Super Kings","Kings XI Punjab","Kings XI Punjab",wickets,6
+2014,2014-04-18,"Sunrisers Hyderabad","Rajasthan Royals","Rajasthan Royals",wickets,4
+2014,2014-04-19,"Royal Challengers Bangalore","Mumbai Indians","Royal Challengers Bangalore",wickets,7
+2014,2014-04-19,"Kolkata Knight Riders","Delhi Daredevils","Delhi Daredevils",wickets,4
+2014,2014-04-20,"Rajasthan Royals","Kings XI Punjab","Kings XI Punjab",wickets,7
+2014,2014-04-21,"Chennai Super Kings","Delhi Daredevils","Chennai Super Kings",runs,93
+2014,2014-04-22,"Kings XI Punjab","Sunrisers Hyderabad","Kings XI Punjab",runs,72
+2014,2014-04-23,"Rajasthan Royals","Chennai Super Kings","Chennai Super Kings",runs,7
+2014,2014-04-24,"Royal Challengers Bangalore","Kolkata Knight Riders","Kolkata Knight Riders",runs,2
+2014,2014-04-25,"Sunrisers Hyderabad","Delhi Daredevils","Sunrisers Hyderabad",runs,4
+2014,2014-04-25,"Chennai Super Kings","Mumbai Indians","Chennai Super Kings",wickets,7
+2014,2014-04-26,"Rajasthan Royals","Royal Challengers Bangalore","Rajasthan Royals",wickets,6
+2014,2014-04-26,"Kolkata Knight Riders","Kings XI Punjab","Kings XI Punjab",runs,23
+2014,2014-04-27,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",wickets,6
+2014,2014-04-27,"Sunrisers Hyderabad","Chennai Super Kings","Chennai Super Kings",wickets,5
+2014,2014-04-28,"Kings XI Punjab","Royal Challengers Bangalore","Kings XI Punjab",wickets,5
+2014,2014-04-29,"Kolkata Knight Riders","Rajasthan Royals","Rajasthan Royals",tie,0
+2014,2014-04-30,"Mumbai Indians","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,15
+2014,2014-05-02,"Chennai Super Kings","Kolkata Knight Riders","Chennai Super Kings",runs,34
+2014,2014-05-03,"Mumbai Indians","Kings XI Punjab","Mumbai Indians",wickets,5
+2014,2014-05-03,"Delhi Daredevils","Rajasthan Royals","Rajasthan Royals",wickets,7
+2014,2014-05-04,"Royal Challengers Bangalore","Sunrisers Hyderabad","Royal Challengers Bangalore",wickets,4
+2014,2014-05-05,"Delhi Daredevils","Chennai Super Kings","Chennai Super Kings",wickets,8
+2014,2014-05-06,"Mumbai Indians","Royal Challengers Bangalore","Mumbai Indians",runs,19
+2014,2014-05-07,"Delhi Daredevils","Kolkata Knight Riders","Kolkata Knight Riders",wickets,8
+2014,2014-05-07,"Kings XI Punjab","Chennai Super Kings","Kings XI Punjab",runs,44
+2014,2014-05-09,"Royal Challengers Bangalore","Kings XI Punjab","Kings XI Punjab",runs,32
+2014,2014-05-10,"Delhi Daredevils","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,8
+2014,2014-05-10,"Mumbai Indians","Chennai Super Kings","Chennai Super Kings",wickets,4
+2014,2014-05-11,"Kings XI Punjab","Kolkata Knight Riders","Kolkata Knight Riders",wickets,9
+2014,2014-05-11,"Royal Challengers Bangalore","Rajasthan Royals","Rajasthan Royals",wickets,5
+2014,2014-05-13,"Chennai Super Kings","Rajasthan Royals","Chennai Super Kings",wickets,5
+2014,2014-05-13,"Royal Challengers Bangalore","Delhi Daredevils","Royal Challengers Bangalore",runs,16
+2014,2014-05-14,"Kolkata Knight Riders","Mumbai Indians","Kolkata Knight Riders",wickets,6
+2014,2014-05-18,"Chennai Super Kings","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,5
+2014,2014-05-19,"Delhi Daredevils","Kings XI Punjab","Kings XI Punjab",wickets,4
+2014,2014-05-20,"Kolkata Knight Riders","Chennai Super Kings","Kolkata Knight Riders",wickets,8
+2014,2014-05-22,"Kolkata Knight Riders","Royal Challengers Bangalore","Kolkata Knight Riders",runs,30
+2014,2014-05-22,"Chennai Super Kings","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,6
+2014,2014-05-23,"Mumbai Indians","Delhi Daredevils","Mumbai Indians",runs,15
+2014,2014-05-24,"Royal Challengers Bangalore","Chennai Super Kings","Chennai Super Kings",wickets,8
+2014,2014-05-24,"Kolkata Knight Riders","Sunrisers Hyderabad","Kolkata Knight Riders",wickets,4
+2014,2014-05-25,"Mumbai Indians","Rajasthan Royals","Mumbai Indians",wickets,5
+2014,2014-05-27,"Kings XI Punjab","Kolkata Knight Riders","Kolkata Knight Riders",runs,28
+2014,2014-05-28,"Chennai Super Kings","Mumbai Indians","Chennai Super Kings",wickets,7
+2014,2014-05-30,"Chennai Super Kings","Kings XI Punjab","Kings XI Punjab",runs,24
+2014,2014-06-01,"Kolkata Knight Riders","Kings XI Punjab","Kolkata Knight Riders",wickets,3
+2015,2015-04-08,"Kolkata Knight Riders","Mumbai Indians","Kolkata Knight Riders",wickets,7
+2015,2015-04-10,"Kings XI Punjab","Rajasthan Royals","Rajasthan Royals",runs,26
+2015,2015-04-11,"Kolkata Knight Riders","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,3
+2015,2015-04-12,"Delhi Daredevils","Rajasthan Royals","Rajasthan Royals",wickets,3
+2015,2015-04-12,"Mumbai Indians","Kings XI Punjab","Kings XI Punjab",runs,18
+2015,2015-04-13,"Royal Challengers Bangalore","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,8
+2015,2015-04-30,"Kolkata Knight Riders","Chennai Super Kings","Kolkata Knight Riders",wickets,7
+2015,2015-04-15,"Kings XI Punjab","Delhi Daredevils","Delhi Daredevils",wickets,5
+2015,2015-04-16,"Sunrisers Hyderabad","Rajasthan Royals","Rajasthan Royals",wickets,6
+2015,2015-04-17,"Mumbai Indians","Chennai Super Kings","Chennai Super Kings",wickets,6
+2015,2015-04-18,"Sunrisers Hyderabad","Delhi Daredevils","Delhi Daredevils",runs,4
+2015,2015-04-18,"Kings XI Punjab","Kolkata Knight Riders","Kolkata Knight Riders",wickets,4
+2015,2015-04-19,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",runs,18
+2015,2015-04-20,"Delhi Daredevils","Kolkata Knight Riders","Kolkata Knight Riders",wickets,6
+2015,2015-04-22,"Sunrisers Hyderabad","Kolkata Knight Riders","Sunrisers Hyderabad",runs,16
+2015,2015-04-22,"Royal Challengers Bangalore","Chennai Super Kings","Chennai Super Kings",runs,27
+2015,2015-04-23,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",runs,37
+2015,2015-04-25,"Mumbai Indians","Sunrisers Hyderabad","Mumbai Indians",runs,20
+2015,2015-04-26,"Delhi Daredevils","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,10
+2015,2015-05-07,"Kolkata Knight Riders","Delhi Daredevils","Kolkata Knight Riders",runs,13
+2015,2015-04-29,"Royal Challengers Bangalore","Rajasthan Royals","No Result","No Result",0
+2015,2015-05-01,"Delhi Daredevils","Kings XI Punjab","Delhi Daredevils",wickets,9
+2015,2015-05-01,"Mumbai Indians","Rajasthan Royals","Mumbai Indians",runs,8
+2015,2015-05-02,"Royal Challengers Bangalore","Kolkata Knight Riders","Royal Challengers Bangalore",wickets,7
+2015,2015-05-03,"Rajasthan Royals","Delhi Daredevils","Rajasthan Royals",runs,14
+2015,2015-05-04,"Kolkata Knight Riders","Sunrisers Hyderabad","Kolkata Knight Riders",runs,35
+2015,2015-05-05,"Mumbai Indians","Delhi Daredevils","Mumbai Indians",wickets,5
+2015,2015-05-06,"Royal Challengers Bangalore","Kings XI Punjab","Royal Challengers Bangalore",runs,138
+2015,2015-05-07,"Rajasthan Royals","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,7
+2015,2015-05-09,"Kolkata Knight Riders","Kings XI Punjab","Kolkata Knight Riders",wickets,1
+2015,2015-05-09,"Delhi Daredevils","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,6
+2015,2015-05-10,"Mumbai Indians","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,39
+2015,2015-05-12,"Delhi Daredevils","Chennai Super Kings","Delhi Daredevils",wickets,6
+2015,2015-05-14,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",runs,5
+2015,2015-05-16,"Rajasthan Royals","Kolkata Knight Riders","Rajasthan Royals",runs,9
+2015,2015-05-17,"Royal Challengers Bangalore","Delhi Daredevils","No Result","No Result",0
+2015,2015-05-19,"Chennai Super Kings","Mumbai Indians","Mumbai Indians",runs,25
+2015,2015-05-20,"Royal Challengers Bangalore","Rajasthan Royals","Royal Challengers Bangalore",runs,71
+2015,2015-05-22,"Chennai Super Kings","Royal Challengers Bangalore","Chennai Super Kings",wickets,3
+2015,2015-05-24,"Mumbai Indians","Chennai Super Kings","Mumbai Indians",runs,41
+2016,2016-04-09,"Mumbai Indians","Rising Pune Supergiants","Rising Pune Supergiants",wickets,9
+2016,2016-04-10,"Kolkata Knight Riders","Delhi Daredevils","Kolkata Knight Riders",wickets,9
+2016,2016-04-12,"Royal Challengers Bangalore","Sunrisers Hyderabad","Royal Challengers Bangalore",runs,45
+2016,2016-04-13,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",wickets,6
+2016,2016-04-14,"Gujarat Lions","Rising Pune Supergiants","Gujarat Lions",wickets,7
+2016,2016-04-15,"Delhi Daredevils","Kings XI Punjab","Delhi Daredevils",wickets,8
+2016,2016-04-16,"Mumbai Indians","Gujarat Lions","Gujarat Lions",wickets,3
+2016,2016-04-17,"Royal Challengers Bangalore","Delhi Daredevils","Delhi Daredevils",wickets,7
+2016,2016-04-20,"Mumbai Indians","Royal Challengers Bangalore","Mumbai Indians",wickets,6
+2016,2016-04-21,"Gujarat Lions","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,10
+2016,2016-04-22,"Rising Pune Supergiants","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,13
+2016,2016-04-23,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",runs,10
+2016,2016-04-24,"Gujarat Lions","Royal Challengers Bangalore","Gujarat Lions",wickets,6
+2016,2016-04-24,"Rising Pune Supergiants","Kolkata Knight Riders","Kolkata Knight Riders",wickets,2
+2016,2016-04-27,"Delhi Daredevils","Gujarat Lions","Gujarat Lions",runs,1
+2016,2016-04-28,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",wickets,6
+2016,2016-04-29,"Rising Pune Supergiants","Gujarat Lions","Gujarat Lions",wickets,3
+2016,2016-04-30,"Delhi Daredevils","Kolkata Knight Riders","Delhi Daredevils",runs,27
+2016,2016-05-01,"Gujarat Lions","Kings XI Punjab","Kings XI Punjab",runs,23
+2016,2016-05-01,"Rising Pune Supergiants","Mumbai Indians","Mumbai Indians",wickets,8
+2016,2016-05-02,"Royal Challengers Bangalore","Kolkata Knight Riders","Kolkata Knight Riders",wickets,5
+2016,2016-05-03,"Gujarat Lions","Delhi Daredevils","Delhi Daredevils",wickets,8
+2016,2016-05-04,"Kolkata Knight Riders","Kings XI Punjab","Kolkata Knight Riders",runs,7
+2016,2016-05-05,"Delhi Daredevils","Rising Pune Supergiants","Rising Pune Supergiants",wickets,7
+2016,2016-05-07,"Royal Challengers Bangalore","Rising Pune Supergiants","Royal Challengers Bangalore",wickets,7
+2016,2016-05-08,"Mumbai Indians","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,85
+2016,2016-05-08,"Kolkata Knight Riders","Gujarat Lions","Gujarat Lions",wickets,5
+2016,2016-05-10,"Rising Pune Supergiants","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,4
+2016,2016-05-11,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",wickets,6
+2016,2016-05-13,"Mumbai Indians","Kings XI Punjab","Kings XI Punjab",wickets,7
+2016,2016-05-14,"Royal Challengers Bangalore","Gujarat Lions","Royal Challengers Bangalore",runs,144
+2016,2016-05-14,"Kolkata Knight Riders","Rising Pune Supergiants","Kolkata Knight Riders",wickets,8
+2016,2016-05-15,"Mumbai Indians","Delhi Daredevils","Mumbai Indians",runs,80
+2016,2016-05-16,"Kolkata Knight Riders","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,9
+2016,2016-05-17,"Rising Pune Supergiants","Delhi Daredevils","Rising Pune Supergiants",runs,19
+2016,2016-05-18,"Royal Challengers Bangalore","Kings XI Punjab","Royal Challengers Bangalore",runs,82
+2016,2016-05-19,"Gujarat Lions","Kolkata Knight Riders","Gujarat Lions",wickets,6
+2016,2016-05-20,"Delhi Daredevils","Sunrisers Hyderabad","Delhi Daredevils",wickets,6
+2016,2016-05-21,"Rising Pune Supergiants","Kings XI Punjab","Rising Pune Supergiants",wickets,4
+2016,2016-05-21,"Gujarat Lions","Mumbai Indians","Gujarat Lions",wickets,6
+2016,2016-05-22,"Kolkata Knight Riders","Sunrisers Hyderabad","Kolkata Knight Riders",runs,22
+2016,2016-05-22,"Delhi Daredevils","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,6
+2016,2016-05-24,"Gujarat Lions","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,4
+2016,2016-05-25,"Sunrisers Hyderabad","Kolkata Knight Riders","Sunrisers Hyderabad",runs,22
+2016,2016-05-27,"Gujarat Lions","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,4
+2016,2016-05-29,"Royal Challengers Bangalore","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,8
+2017,2017-04-06,"Rising Pune Supergiant","Mumbai Indians","Rising Pune Supergiant",wickets,7
+2017,2017-04-07,"Gujarat Lions","Kolkata Knight Riders","Kolkata Knight Riders",wickets,10
+2017,2017-04-08,"Kings XI Punjab","Rising Pune Supergiant","Kings XI Punjab",wickets,6
+2017,2017-04-08,"Royal Challengers Bangalore","Delhi Daredevils","Royal Challengers Bangalore",runs,15
+2017,2017-04-09,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",wickets,4
+2017,2017-04-10,"Kings XI Punjab","Royal Challengers Bangalore","Kings XI Punjab",wickets,8
+2017,2017-04-11,"Rising Pune Supergiant","Delhi Daredevils","Delhi Daredevils",runs,97
+2017,2017-04-12,"Mumbai Indians","Sunrisers Hyderabad","Mumbai Indians",wickets,4
+2017,2017-04-13,"Kolkata Knight Riders","Kings XI Punjab","Kolkata Knight Riders",wickets,8
+2017,2017-04-14,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",wickets,4
+2017,2017-04-14,"Gujarat Lions","Rising Pune Supergiant","Gujarat Lions",wickets,7
+2017,2017-04-15,"Kolkata Knight Riders","Sunrisers Hyderabad","Kolkata Knight Riders",runs,17
+2017,2017-04-15,"Delhi Daredevils","Kings XI Punjab","Delhi Daredevils",runs,51
+2017,2017-04-16,"Mumbai Indians","Gujarat Lions","Mumbai Indians",wickets,6
+2017,2017-04-16,"Royal Challengers Bangalore","Rising Pune Supergiant","Rising Pune Supergiant",runs,27
+2017,2017-04-17,"Delhi Daredevils","Kolkata Knight Riders","Kolkata Knight Riders",wickets,4
+2017,2017-04-18,"Gujarat Lions","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,21
+2017,2017-04-20,"Kings XI Punjab","Mumbai Indians","Mumbai Indians",wickets,8
+2017,2017-04-21,"Kolkata Knight Riders","Gujarat Lions","Gujarat Lions",wickets,4
+2017,2017-04-22,"Mumbai Indians","Delhi Daredevils","Mumbai Indians",runs,14
+2017,2017-04-22,"Rising Pune Supergiant","Sunrisers Hyderabad","Rising Pune Supergiant",wickets,6
+2017,2017-04-23,"Gujarat Lions","Kings XI Punjab","Kings XI Punjab",runs,26
+2017,2017-04-23,"Kolkata Knight Riders","Royal Challengers Bangalore","Kolkata Knight Riders",runs,82
+2017,2017-04-24,"Mumbai Indians","Rising Pune Supergiant","Rising Pune Supergiant",runs,3
+2017,2017-04-26,"Rising Pune Supergiant","Kolkata Knight Riders","Kolkata Knight Riders",wickets,7
+2017,2017-04-27,"Royal Challengers Bangalore","Gujarat Lions","Gujarat Lions",wickets,7
+2017,2017-04-28,"Kolkata Knight Riders","Delhi Daredevils","Kolkata Knight Riders",wickets,7
+2017,2017-04-29,"Rising Pune Supergiant","Royal Challengers Bangalore","Rising Pune Supergiant",runs,61
+2017,2017-04-29,"Gujarat Lions","Mumbai Indians","Mumbai Indians",tie,0
+2017,2017-05-01,"Mumbai Indians","Royal Challengers Bangalore","Mumbai Indians",wickets,5
+2017,2017-05-01,"Rising Pune Supergiant","Gujarat Lions","Rising Pune Supergiant",wickets,5
+2017,2017-05-02,"Delhi Daredevils","Sunrisers Hyderabad","Delhi Daredevils",wickets,6
+2017,2017-05-03,"Kolkata Knight Riders","Rising Pune Supergiant","Rising Pune Supergiant",wickets,4
+2017,2017-05-04,"Delhi Daredevils","Gujarat Lions","Delhi Daredevils",wickets,7
+2017,2017-05-05,"Royal Challengers Bangalore","Kings XI Punjab","Kings XI Punjab",runs,19
+2017,2017-05-06,"Delhi Daredevils","Mumbai Indians","Mumbai Indians",runs,146
+2017,2017-05-07,"Royal Challengers Bangalore","Kolkata Knight Riders","Kolkata Knight Riders",wickets,6
+2017,2017-05-10,"Gujarat Lions","Delhi Daredevils","Delhi Daredevils",wickets,2
+2017,2017-05-11,"Mumbai Indians","Kings XI Punjab","Kings XI Punjab",runs,7
+2017,2017-05-12,"Delhi Daredevils","Rising Pune Supergiant","Delhi Daredevils",runs,7
+2017,2017-05-13,"Gujarat Lions","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,8
+2017,2017-05-13,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",runs,9
+2017,2017-05-14,"Rising Pune Supergiant","Kings XI Punjab","Rising Pune Supergiant",wickets,9
+2017,2017-05-14,"Delhi Daredevils","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,10
+2017,2017-05-16,"Mumbai Indians","Rising Pune Supergiant","Rising Pune Supergiant",runs,20
+2017,2017-05-17,"Sunrisers Hyderabad","Kolkata Knight Riders","Kolkata Knight Riders",wickets,7
+2017,2017-05-19,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",wickets,6
+2018,2018-04-07,"Mumbai Indians","Chennai Super Kings","Chennai Super Kings",wickets,1
+2018,2018-04-08,"Kolkata Knight Riders","Royal Challengers Bangalore","Kolkata Knight Riders",wickets,4
+2018,2018-04-11,"Rajasthan Royals","Delhi Daredevils","Rajasthan Royals",runs,10
+2018,2018-04-13,"Royal Challengers Bangalore","Kings XI Punjab","Royal Challengers Bangalore",wickets,4
+2018,2018-04-14,"Mumbai Indians","Delhi Daredevils","Delhi Daredevils",wickets,7
+2018,2018-04-14,"Kolkata Knight Riders","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,5
+2018,2018-04-15,"Royal Challengers Bangalore","Rajasthan Royals","Rajasthan Royals",runs,19
+2018,2018-04-16,"Kolkata Knight Riders","Delhi Daredevils","Kolkata Knight Riders",runs,71
+2018,2018-04-17,"Mumbai Indians","Royal Challengers Bangalore","Mumbai Indians",runs,46
+2018,2018-04-18,"Rajasthan Royals","Kolkata Knight Riders","Kolkata Knight Riders",wickets,7
+2018,2018-04-20,"Chennai Super Kings","Rajasthan Royals","Chennai Super Kings",runs,64
+2018,2018-04-21,"Kolkata Knight Riders","Kings XI Punjab","Kings XI Punjab",wickets,9
+2018,2018-04-21,"Royal Challengers Bangalore","Delhi Daredevils","Royal Challengers Bangalore",wickets,6
+2018,2018-04-22,"Rajasthan Royals","Mumbai Indians","Rajasthan Royals",wickets,3
+2018,2018-04-23,"Delhi Daredevils","Kings XI Punjab","Kings XI Punjab",runs,4
+2018,2018-04-24,"Mumbai Indians","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,31
+2018,2018-04-25,"Royal Challengers Bangalore","Chennai Super Kings","Chennai Super Kings",wickets,5
+2018,2018-04-27,"Delhi Daredevils","Kolkata Knight Riders","Delhi Daredevils",runs,55
+2018,2018-04-28,"Chennai Super Kings","Mumbai Indians","Mumbai Indians",wickets,8
+2018,2018-04-29,"Rajasthan Royals","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,11
+2018,2018-04-29,"Royal Challengers Bangalore","Kolkata Knight Riders","Kolkata Knight Riders",wickets,6
+2018,2018-04-30,"Chennai Super Kings","Delhi Daredevils","Chennai Super Kings",runs,13
+2018,2018-05-01,"Royal Challengers Bangalore","Mumbai Indians","Royal Challengers Bangalore",runs,14
+2018,2018-05-02,"Delhi Daredevils","Rajasthan Royals","Delhi Daredevils",runs,4
+2018,2018-05-03,"Kolkata Knight Riders","Chennai Super Kings","Kolkata Knight Riders",wickets,6
+2018,2018-05-04,"Kings XI Punjab","Mumbai Indians","Mumbai Indians",wickets,6
+2018,2018-05-05,"Chennai Super Kings","Royal Challengers Bangalore","Chennai Super Kings",wickets,6
+2018,2018-05-06,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",runs,13
+2018,2018-05-06,"Kings XI Punjab","Rajasthan Royals","Kings XI Punjab",wickets,6
+2018,2018-05-08,"Rajasthan Royals","Kings XI Punjab","Rajasthan Royals",runs,15
+2018,2018-05-09,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",runs,102
+2018,2018-05-10,"Delhi Daredevils","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,9
+2018,2018-05-11,"Rajasthan Royals","Chennai Super Kings","Rajasthan Royals",wickets,4
+2018,2018-05-12,"Kings XI Punjab","Kolkata Knight Riders","Kolkata Knight Riders",runs,31
+2018,2018-05-12,"Delhi Daredevils","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,5
+2018,2018-05-13,"Chennai Super Kings","Sunrisers Hyderabad","Chennai Super Kings",wickets,8
+2018,2018-05-13,"Mumbai Indians","Rajasthan Royals","Rajasthan Royals",wickets,7
+2018,2018-05-14,"Kings XI Punjab","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,10
+2018,2018-05-15,"Kolkata Knight Riders","Rajasthan Royals","Kolkata Knight Riders",wickets,6
+2018,2018-05-16,"Mumbai Indians","Kings XI Punjab","Mumbai Indians",runs,3
+2018,2018-05-17,"Royal Challengers Bangalore","Sunrisers Hyderabad","Royal Challengers Bangalore",runs,14
+2018,2018-05-18,"Delhi Daredevils","Chennai Super Kings","Delhi Daredevils",runs,34
+2018,2018-05-19,"Rajasthan Royals","Royal Challengers Bangalore","Rajasthan Royals",runs,30
+2018,2018-05-20,"Delhi Daredevils","Mumbai Indians","Delhi Daredevils",runs,11
+2018,2018-05-20,"Chennai Super Kings","Kings XI Punjab","Chennai Super Kings",wickets,5
+2018,2018-05-22,"Sunrisers Hyderabad","Chennai Super Kings","Chennai Super Kings",wickets,2
+2018,2018-05-23,"Kolkata Knight Riders","Rajasthan Royals","Kolkata Knight Riders",runs,25
+2018,2018-05-25,"Kolkata Knight Riders","Sunrisers Hyderabad","Sunrisers Hyderabad",runs,14
+2018,2018-05-27,"Chennai Super Kings","Sunrisers Hyderabad","Chennai Super Kings",wickets,8
+2019,2019-03-24,"Kolkata Knight Riders","Sunrisers Hyderabad","Kolkata Knight Riders",wickets,6
+2019,2019-03-24,"Mumbai Indians","Delhi Capitals","Delhi Capitals",runs,37
+2019,2019-03-25,"Rajasthan Royals","Kings XI Punjab","Kings XI Punjab",runs,14
+2019,2019-03-26,"Delhi Capitals","Chennai Super Kings","Chennai Super Kings",wickets,6
+2019,2019-03-27,"Kolkata Knight Riders","Kings XI Punjab","Kolkata Knight Riders",runs,28
+2019,2019-03-28,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",runs,6
+2019,2019-03-30,"Delhi Capitals","Kolkata Knight Riders","Delhi Capitals",tie,0
+2019,2019-04-02,"Rajasthan Royals","Royal Challengers Bangalore","Rajasthan Royals",wickets,7
+2019,2019-04-03,"Mumbai Indians","Chennai Super Kings","Mumbai Indians",runs,37
+2019,2019-04-04,"Delhi Capitals","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,5
+2019,2019-04-05,"Royal Challengers Bangalore","Kolkata Knight Riders","Kolkata Knight Riders",wickets,5
+2019,2019-04-07,"Royal Challengers Bangalore","Delhi Capitals","Delhi Capitals",wickets,4
+2019,2019-04-07,"Rajasthan Royals","Kolkata Knight Riders","Kolkata Knight Riders",wickets,8
+2019,2019-04-10,"Mumbai Indians","Kings XI Punjab","Mumbai Indians",wickets,3
+2019,2019-04-11,"Rajasthan Royals","Chennai Super Kings","Chennai Super Kings",wickets,4
+2019,2019-04-12,"Kolkata Knight Riders","Delhi Capitals","Delhi Capitals",wickets,7
+2019,2019-04-13,"Mumbai Indians","Rajasthan Royals","Rajasthan Royals",wickets,4
+2019,2019-04-14,"Kolkata Knight Riders","Chennai Super Kings","Chennai Super Kings",wickets,5
+2019,2019-04-15,"Mumbai Indians","Royal Challengers Bangalore","Mumbai Indians",wickets,5
+2019,2019-04-18,"Delhi Capitals","Mumbai Indians","Mumbai Indians",runs,40
+2019,2019-04-19,"Kolkata Knight Riders","Royal Challengers Bangalore","Royal Challengers Bangalore",runs,10
+2019,2019-04-20,"Rajasthan Royals","Mumbai Indians","Rajasthan Royals",wickets,5
+2019,2019-04-20,"Delhi Capitals","Kings XI Punjab","Delhi Capitals",wickets,5
+2019,2019-04-21,"Royal Challengers Bangalore","Chennai Super Kings","Royal Challengers Bangalore",runs,1
+2019,2019-04-22,"Rajasthan Royals","Delhi Capitals","Delhi Capitals",wickets,6
+2019,2019-04-24,"Royal Challengers Bangalore","Kings XI Punjab","Royal Challengers Bangalore",runs,17
+2019,2019-04-25,"Kolkata Knight Riders","Rajasthan Royals","Rajasthan Royals",wickets,3
+2019,2019-04-27,"Rajasthan Royals","Sunrisers Hyderabad","Rajasthan Royals",wickets,7
+2019,2019-04-28,"Delhi Capitals","Royal Challengers Bangalore","Delhi Capitals",runs,16
+2019,2019-04-28,"Kolkata Knight Riders","Mumbai Indians","Kolkata Knight Riders",runs,34
+2019,2019-04-30,"Royal Challengers Bangalore","Rajasthan Royals","No Result","No Result",0
+2019,2019-05-02,"Mumbai Indians","Sunrisers Hyderabad","Mumbai Indians",tie,0
+2019,2019-05-04,"Delhi Capitals","Rajasthan Royals","Delhi Capitals",wickets,5
+2019,2019-05-04,"Royal Challengers Bangalore","Sunrisers Hyderabad","Royal Challengers Bangalore",wickets,4
+2019,2019-05-05,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",wickets,9
+2019,2019-05-08,"Delhi Capitals","Sunrisers Hyderabad","Delhi Capitals",wickets,2
+2019,2019-05-10,"Chennai Super Kings","Delhi Capitals","Chennai Super Kings",wickets,6
+2020,2020-09-19,"Mumbai Indians","Chennai Super Kings","Chennai Super Kings",wickets,5
+2020,2020-09-20,"Delhi Capitals","Kings XI Punjab","Delhi Capitals",tie,0
+2020,2020-10-21,"Kolkata Knight Riders","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,8
+2020,2020-11-03,"Mumbai Indians","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,10
+2020,2020-09-22,"Rajasthan Royals","Chennai Super Kings","Rajasthan Royals",runs,16
+2020,2020-10-24,"Kolkata Knight Riders","Delhi Capitals","Kolkata Knight Riders",runs,59
+2020,2020-10-24,"Kings XI Punjab","Sunrisers Hyderabad","Kings XI Punjab",runs,12
+2020,2020-10-28,"Royal Challengers Bangalore","Mumbai Indians","Mumbai Indians",wickets,5
+2020,2020-10-09,"Delhi Capitals","Rajasthan Royals","Delhi Capitals",runs,46
+2020,2020-10-07,"Kolkata Knight Riders","Chennai Super Kings","Kolkata Knight Riders",runs,10
+2020,2020-10-31,"Royal Challengers Bangalore","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,5
+2020,2020-10-01,"Mumbai Indians","Kings XI Punjab","Mumbai Indians",runs,48
+2020,2020-09-30,"Kolkata Knight Riders","Rajasthan Royals","Kolkata Knight Riders",runs,37
+2020,2020-11-02,"Royal Challengers Bangalore","Delhi Capitals","Delhi Capitals",wickets,6
+2020,2020-11-01,"Kings XI Punjab","Chennai Super Kings","Chennai Super Kings",wickets,9
+2020,2020-10-11,"Sunrisers Hyderabad","Rajasthan Royals","Rajasthan Royals",wickets,5
+2020,2020-09-23,"Mumbai Indians","Kolkata Knight Riders","Mumbai Indians",runs,49
+2020,2020-10-17,"Chennai Super Kings","Delhi Capitals","Delhi Capitals",wickets,5
+2020,2020-09-24,"Kings XI Punjab","Royal Challengers Bangalore","Kings XI Punjab",runs,97
+2020,2020-10-06,"Mumbai Indians","Rajasthan Royals","Mumbai Indians",runs,57
+2020,2020-10-18,"Kolkata Knight Riders","Sunrisers Hyderabad","Kolkata Knight Riders",tie,0
+2020,2020-10-04,"Kings XI Punjab","Chennai Super Kings","Chennai Super Kings",wickets,10
+2020,2020-10-03,"Rajasthan Royals","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,8
+2020,2020-10-03,"Delhi Capitals","Kolkata Knight Riders","Delhi Capitals",runs,18
+2020,2020-10-02,"Sunrisers Hyderabad","Chennai Super Kings","Sunrisers Hyderabad",runs,7
+2020,2020-10-18,"Mumbai Indians","Kings XI Punjab","Kings XI Punjab",tie,0
+2020,2020-10-22,"Rajasthan Royals","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,8
+2020,2020-10-05,"Delhi Capitals","Royal Challengers Bangalore","Delhi Capitals",runs,59
+2020,2020-10-26,"Kolkata Knight Riders","Kings XI Punjab","Kings XI Punjab",wickets,8
+2020,2020-10-23,"Chennai Super Kings","Mumbai Indians","Mumbai Indians",wickets,10
+2020,2020-10-17,"Rajasthan Royals","Royal Challengers Bangalore","Royal Challengers Bangalore",wickets,7
+2020,2020-10-10,"Kolkata Knight Riders","Kings XI Punjab","Kolkata Knight Riders",runs,2
+2020,2020-10-27,"Sunrisers Hyderabad","Delhi Capitals","Sunrisers Hyderabad",runs,88
+2020,2020-10-10,"Royal Challengers Bangalore","Chennai Super Kings","Royal Challengers Bangalore",runs,37
+2020,2020-10-16,"Kolkata Knight Riders","Mumbai Indians","Mumbai Indians",wickets,8
+2020,2020-09-27,"Kings XI Punjab","Rajasthan Royals","Rajasthan Royals",wickets,4
+2020,2020-10-13,"Chennai Super Kings","Sunrisers Hyderabad","Chennai Super Kings",runs,20
+2020,2020-10-11,"Delhi Capitals","Mumbai Indians","Mumbai Indians",wickets,5
+2020,2020-11-01,"Kolkata Knight Riders","Rajasthan Royals","Kolkata Knight Riders",runs,60
+2020,2020-10-15,"Royal Challengers Bangalore","Kings XI Punjab","Kings XI Punjab",wickets,8
+2020,2020-09-29,"Sunrisers Hyderabad","Delhi Capitals","Sunrisers Hyderabad",runs,15
+2020,2020-10-19,"Chennai Super Kings","Rajasthan Royals","Rajasthan Royals",wickets,7
+2020,2020-09-21,"Royal Challengers Bangalore","Sunrisers Hyderabad","Royal Challengers Bangalore",runs,10
+2020,2020-10-31,"Delhi Capitals","Mumbai Indians","Mumbai Indians",wickets,9
+2020,2020-10-29,"Kolkata Knight Riders","Chennai Super Kings","Chennai Super Kings",wickets,6
+2020,2020-10-30,"Kings XI Punjab","Rajasthan Royals","Rajasthan Royals",wickets,7
+2020,2020-10-04,"Mumbai Indians","Sunrisers Hyderabad","Mumbai Indians",runs,34
+2020,2020-09-25,"Delhi Capitals","Chennai Super Kings","Delhi Capitals",runs,44
+2020,2020-10-12,"Royal Challengers Bangalore","Kolkata Knight Riders","Royal Challengers Bangalore",runs,82
+2020,2020-10-25,"Mumbai Indians","Rajasthan Royals","Rajasthan Royals",wickets,8
+2020,2020-10-08,"Sunrisers Hyderabad","Kings XI Punjab","Sunrisers Hyderabad",runs,69
+2020,2020-10-14,"Delhi Capitals","Rajasthan Royals","Delhi Capitals",runs,13
+2020,2020-10-25,"Royal Challengers Bangalore","Chennai Super Kings","Chennai Super Kings",wickets,8
+2020,2020-09-26,"Sunrisers Hyderabad","Kolkata Knight Riders","Kolkata Knight Riders",wickets,7
+2020,2020-10-20,"Delhi Capitals","Kings XI Punjab","Kings XI Punjab",wickets,5
+2020,2020-09-28,"Royal Challengers Bangalore","Mumbai Indians","Royal Challengers Bangalore",tie,0
+2020,2020-11-05,"Mumbai Indians","Delhi Capitals","Mumbai Indians",runs,57
+2020,2020-11-06,"Royal Challengers Bangalore","Sunrisers Hyderabad","Sunrisers Hyderabad",wickets,6
+2020,2020-11-08,"Delhi Capitals","Sunrisers Hyderabad","Delhi Capitals",runs,17
+2020,2020-11-10,"Delhi Capitals","Mumbai Indians","Mumbai Indians",wickets,5
