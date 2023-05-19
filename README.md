@@ -4,7 +4,7 @@ IPL_2008_2020 DATA ANALYSIS USING SQL
 
 SUMMARY OF SQL PROJECT IPL-2008-2020
 
-HELLO READER/VIEWER
+HELLO READER/VIEWER/HIRING MANAGER
 
 I have conducted a comprehensive analysis of the IPL data from 2008 to 2020, categorizing it into four distinct areas: tournament, batsmen, bowlers, and team-specific analysis.
 
